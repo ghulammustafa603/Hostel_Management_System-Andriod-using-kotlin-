@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HostelPro</string>
+
+    <!-- Authentication Strings -->
+    <string name="login_title">Welcome to HostelPro</string>
+    <string name="login_subtitle">Manage your hostel efficiently</string>
+    <string name="email_hint">Enter your email</string>
+    <string name="password_hint">Enter your password</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Don\'t have an account? Register</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_in_with_google">Sign In with Google</string>
+
+    <!-- Registration Strings -->
+    <string name="register_title">Create Account</string>
+    <string name="name_hint">Full Name</string>
+    <string name="phone_hint">Phone Number</string>
+    <string name="select_role">Select Your Role</string>
+    <string name="role_admin">Admin</string>
+    <string name="role_staff">Staff</string>
+    <string name="role_student">Student</string>
+    <string name="register">Register</string>
+
+    <!-- Dashboard Strings -->
+    <string name="dashboard_title">Dashboard</string>
+    <string name="total_rooms">Total Rooms</string>
+    <string name="occupied_rooms">Occupied</string>
+    <string name="vacant_rooms">Vacant</string>
+    <string name="pending_fees">Pending Fees</string>
+
+    <!-- Room Management Strings -->
+    <string name="rooms">Rooms</string>
+    <string name="room_number">Room Number</string>
+    <string name="room_type">Room Type</string>
+    <string name="room_capacity">Capacity</string>
+    <string name="room_status">Status</string>
+    <string name="available">Available</string>
+    <string name="occupied">Occupied</string>
+    <string name="maintenance">Maintenance</string>
+    <string name="add_room">Add Room</string>
+    <string name="edit_room">Edit Room</string>
+    <string name="delete_room">Delete Room</string>
+    <string name="room_details">Room Details</string>
+    <string name="floor">Floor</string>
+    <string name="monthly_rent">Monthly Rent</string>
+    <string name="capacity">Capacity</string>
+    <string name="occupied_count">Occupied Count</string>
+    <string name="room_type_single">Single Occupancy</string>
+    <string name="room_type_double">Double Occupancy</string>
+    <string name="room_type_triple">Triple Occupancy</string>
+    <string name="room_type_dorm">Dormitory</string>
+    <string name="amenities">Amenities</string>
+    <string name="occupancy_rate">Occupancy Rate</string>
+
+    <!-- Student Management Strings -->
+    <string name="students">Students</string>
+    <string name="student_name">Student Name</string>
+    <string name="student_email">Email</string>
+    <string name="student_phone">Phone</string>
+
+    <!-- Fee Management Strings -->
+    <string name="fees">Fees</string>
+    <string name="total_amount">Total Amount</string>
+    <string name="paid_amount">Paid Amount</string>
+    <string name="due_amount">Due Amount</string>
+    <string name="payment_mode">Payment Mode</string>
+
+    <!-- Complaint Strings -->
+    <string name="complaints">Complaints</string>
+    <string name="complaint_category">Category</string>
+    <string name="complaint_description">Description</string>
+    <string name="submit">Submit</string>
+
+    <!-- Common Strings -->
+    <string name="loading">Loading...</string>
+    <string name="error">Error</string>
+    <string name="retry">Retry</string>
+    <string name="logout">Logout</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="back">Back</string>
+    <string name="search">Search</string>
+    <string name="filter">Filter</string>
+    <string name="close">Close</string>
+    <string name="create">Create</string>
+    <string name="update">Update</string>
+</resources>
